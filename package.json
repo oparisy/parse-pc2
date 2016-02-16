@@ -1,7 +1,6 @@
 {
   "name": "parse-pc2",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "lint": "standard && jshint index.js demo/ test/",
     "test": "mocha --reporter spec test/",

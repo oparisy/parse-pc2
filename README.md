@@ -1,6 +1,10 @@
 # parse-pc2
 Parse .PC2 vertex animation files.
 
+## Installation ##
+
+[![parse-pc2](https://nodei.co/npm/parse-pc2.png?mini=true)](https://nodei.co/npm/parse-pc2)
+
 ## Blocking API
 
 ```javascript
