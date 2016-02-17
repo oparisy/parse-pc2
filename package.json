@@ -1,9 +1,10 @@
 {
   "name": "parse-pc2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "lint": "standard && jshint index.js demo/ test/",
     "test": "mocha --reporter spec test/",
+    "bundle": "browserify demo/demo.js -o demo/bundle.js",
     "demo": "budo demo/demo.js --open -- -t glslify -t brfs"
   },
   "devDependencies": {

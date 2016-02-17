@@ -1,5 +1,5 @@
 # parse-pc2
-Parse .PC2 vertex animation files.
+Parse .PC2 vertex animation files. [Demo](http://oparisy.github.io/parse-pc2/demo/).
 
 ## Installation ##
 
@@ -51,6 +51,8 @@ An example using [stack.gl](http://stack.gl) modules to play an animation export
 $ npm run demo
 ```
 
+[See it here](http://oparisy.github.io/parse-pc2/demo/).
+ 
 ## Development
 ### Unit Tests
 ```bash
